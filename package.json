@@ -1,0 +1,21 @@
+{
+    "name": "pasty-taco",
+    "displayName": "Pasty Taco",
+    "description": "A bit of a pasty taco",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Pasty Taco",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Pasty Taco-color-theme.json"
+            }
+        ]
+    }
+}

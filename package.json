@@ -2,7 +2,12 @@
     "name": "pasty-taco",
     "displayName": "Pasty Taco",
     "description": "A bit of a pasty taco",
-    "version": "0.0.1",
+    "version": "1.0.0",
+    "publisher": "DigitalFortress",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/liamgui/pasty-taco_vscode-theme"
+    },
     "engines": {
         "vscode": "^1.68.0"
     },
@@ -17,5 +22,17 @@
                 "path": "./themes/Pasty Taco-color-theme.json"
             }
         ]
-    }
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "digital dungeon",
+        "digital fortress",
+        "digitalfortress",
+        "thedigitalfortress",
+        "the digital fortress",
+        "digital",
+        "fortress",
+        "liamgui"
+    ]
 }
